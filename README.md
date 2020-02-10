@@ -1,1 +1,3 @@
-Go to https://ucwealth.github.io/videozone/ to use this app.
+# Videozone
+
+To use this app, clone it to your system and run npm install from your terminal.
